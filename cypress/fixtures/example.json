@@ -1,0 +1,18 @@
+{
+  "url":"https://beta.workmotion.com/login",
+  "email":"aliaa+qahrmanager@workmotion.com",
+  "password":"Test1234",
+  "country":"india",
+  "talentFirstName":"Test User31",
+  "talentLastName":"Test User31",
+  "isEligibleToWork":"Yes",
+  "isTalentExecutive":"Yes",
+  "jobTitle":"Sotware Test Engineer",
+  "jobDescription":"Coordinate office activities and operations to secure efficiency",
+  "nameOfDirectManager":"Test Manager03",
+  "titleOfDirectManager":"Head of Marketing",
+  "employmentType":"full-time",
+  "workingSchedule":"Fixed Hour",
+  "contractStartDate":"03-03-2022",
+  "actionItemSubTitle":"Completed actions"
+}
